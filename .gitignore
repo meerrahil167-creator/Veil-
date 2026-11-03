@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out/
+.DS_Store
+community/*.key
+shots/
+bin/
+
+# video scripts (not part of the project)
+FINAL_SCRIPT.md
+VIDEO_SCRIPT.md
+teleprompter.html
+docs/TELEPROMPTER.txt
+.vscode/

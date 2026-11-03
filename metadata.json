@@ -1,0 +1,6 @@
+{
+  "name": "Veil",
+  "description": "An anonymous privacy browser inspired by Tor Browser with circuit isolation, onion routing visualizer, community directory, and leak test.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
